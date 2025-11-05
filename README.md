@@ -3,7 +3,7 @@
 <div align="center">
 
 ![TrustInterview Logo](https://img.shields.io/badge/TrustInterview-AI--Powered-00bfff?style=for-the-badge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)]()
 
 **Next-Generation Interview Integrity Platform**
